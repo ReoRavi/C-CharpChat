@@ -1,0 +1,1 @@
+D:\Project\C-CharpChat\Server\Server\bin\Debug\Server.exe.config
